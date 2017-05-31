@@ -10,15 +10,15 @@ NOTE: This repository is a fork of a similar workshop that is being reworked for
 
 ## Agenda
 1. Introduction to OpenRefine
-  2. About
-  3. Extensions
-  4. GLAM Metadata & LOD in OpenRefine
-  6. Resources
+    2. About
+    3. Extensions
+    4. GLAM Metadata & LOD in OpenRefine
+    6. Resources
 2. Import Data
-  3. CSV, Google Sheets
-  4. JSON, XML
-  4. API or OAI-PMH Data (taken from SHARE Examples)
-  5. RDF/XML, RDF Ntriples
+    3. CSV, Google Sheets
+    4. JSON, XML
+    4. API or OAI-PMH Data (taken from SHARE Examples)
+    5. RDF/XML, RDF Ntriples
 3. Data Remediation/Munging
   4. Splitting & Merging Columns, Rows
   5. Faceting, Clustering

@@ -38,17 +38,11 @@
 ## Working with Examples
 By the end, we won't have *perfect* or *complete* remediated metadata files, but we'll know how to get there and have started on this work. I will have metadata taken from the SHARE API to work with, but also invite participants to bring their own metadata files or datasets to work on.
 
-## Contents of this Repository
-- Slides & Speaker's Notes
-- OpenRefine Installation Instructions
-- Procedures Documentation (for use later in your own documentation)
-- Sample Data & Projects Used
-
 ## Participant Requirements
 
-We request that all participants have their own laptop or computer to work on, preferably one that you have installation or admin privileges on (if possible). The laptop should have OpenRefine (see below) installed as well as an up-to-date modern web browser (basically, not Internet Explorer).
+We request that all participants have their own laptop or computer to work on. Please have the latest release candidate (2.7rc2, albeit 2.6 and 2.7rc1 should also work) of OpenRefine installed before the start of the workshop. Instructions for installation are available at [Installation](Installation/README.md). You will also need an up-to-date modern web browser (basically, anything other than Internet Explorer).
 
-Please have the latest release candidate (2.7rc2, albeit 2.6 and 2.7rc1 should also work) of OpenRefine installed before the start of the workshop. Instructions for installation are available at [Installation](Installation/README.md). If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you. Note the back-up options as well.
+If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you. Note the back-up options as well described at [Installation](Installation/README.md).
 
 ## Expectations of Participants
 

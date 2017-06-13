@@ -1,7 +1,9 @@
 # Cleaning and Publishing SHARE Metadata
 ### Hands on tutorial with OpenRefine
 **Thursday, June 15th, Noon - 2 PM Pacific**
+
 [Christina Harlow (Stanford University)](http://www.twitter.com/cm_harlow)
+
 cmharlow@stanford.edu
 
 ## Agenda

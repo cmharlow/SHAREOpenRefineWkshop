@@ -6,7 +6,7 @@ This workshop will primarily work with the latest release candidate (2.7rc2) of 
 
 ### OpenRefine Installation
 
-If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you. As a back-up (if you cannot install OpenRefine locally), sign up for a 1 month trial of a hosted version of OpenRefine described below.
+If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you.
 
 #### Java Requirements
 OpenRefine is built in Java. You will need [Java JRE installed](https://www.java.com/en/download/help/download_options.xml).
@@ -32,24 +32,9 @@ OpenRefine is built in Java. You will need [Java JRE installed](https://www.java
 3. Once you've tried starting OpenRefine, go to http://127.0.0.1:3333/ and make sure you see the OpenRefine start screen.
 4. To quit OpenRefine, close the window that appeared when clicking the starter icon.
 
-### Back-ups OpenRefine Installation Options
+### Installation for the Technically-inclined: Compile from Source
 
-Try these if the above fails:
-
-#### Hosted Version of OpenRefine (RefinePro)
-RefinePro is a company that runs cloud-hosted instances of OpenRefine.
-
-If you want to try a cloud-based version or if you cannot get the instructions above to work, you can try a free month trial to RefinePro. Follow these steps:
-
-1. Go to [the RefinePro site](https://app.refinepro.com/register/) and register (you will need to provide a name and email address).
-2. On that registration page, for the 'Community' portion, do not choose anything.
-3. When done, enter. You'll get a free month trial.
-3. Respond to the email confirmation. This should take you back to the RefinePro login.
-4. Logging in takes you to your dashboard. Choose to start an instance - this will create an OpenRefine instance.
-5. Once an instance available on your dashboard, click on 'Start'. Once it is starting, click on 'Access this RefinePro instance', a link that appears once your OpenRefine instance is running. (this make take a few minutes to start up)
-6. This should take you to OpenRefine.
-
-#### For the Technically-inclined: Compile from Source
+(try this if the above fails or you are more technically-inclined)
 
 Alternatively, you can run OpenRefine by downloading or git cloning the source code.
 

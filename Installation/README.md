@@ -54,16 +54,16 @@ If you want to try a cloud-based version or if you cannot get the instructions a
 Alternatively, you can run OpenRefine by downloading or git cloning the source code.
 
 1. Clone or download OpenRefine:
-  a. To download the source code for 2.7rc2, find the downloads here: https://github.com/OpenRefine/OpenRefine/releases
-  b. To clone this from GitHub, clone the master branch of this repository: https://github.com/OpenRefine/OpenRefine
+    - To download the source code for 2.7rc2, find the downloads here: https://github.com/OpenRefine/OpenRefine/releases
+    - To clone this from GitHub, clone the master branch of this repository: https://github.com/OpenRefine/OpenRefine
 2. Move OpenRefine to wherever on your computer you'd like to run it from.
 3. Change into that OpenRefine directory in some kind of command line interface or shell (e.g. Terminal on Mac, Command Prompt in Windows,...).
 4. In your CLI or shell, first build OpenRefine (you only need to do this once per download):
-  a. on Windows, type: ```$ refine build```
-  b. on MacOSX or Unix, type: ```$ ./refine build```
+    - on Windows, type: ```$ refine build```
+    - on MacOSX or Unix, type: ```$ ./refine build```
 5. Run OpenRefine:
-  a. On Mac/Linux: ``` $ ./refine ```
-    b. On Windows: ``` $ refine ```
+    - On Mac/Linux: ``` $ ./refine ```
+    - On Windows: ``` $ refine ```
 6. Leave the Command Line Interface running while working with LODRefine. Go to your preferred web browser (**not Internet Explorer**), and navigate to http://127.0.0.1:3333/.
 7. When you're done, go back to the Command Line Interface client where LODRefine is running, and type `cntl+C`. This will stop OpenRefine.
 

@@ -19,7 +19,7 @@ OpenRefine is built in Java. You will need [Java JRE installed](https://www.java
       * Download `openrefine-win-2.7-rc.2.zip`, unzip, and double-click on `openrefine.exe`.
       * If you’re having issues, try double-clicking on `refine.bat` (in the downloaded and unzipped openrefine folder on your computer) instead.
     * For Mac:
-      * Download `openrefine-mac-2.7-rc.2.dmg`, open, drag icon into the `Applications` folder and double click on it.
+      * Download `openrefine-mac-2.7-rc.2.dmg`, open or double click on the downloaded file, drag icon into the `Applications` folder and double click on it in your Applications list.
       * If you get the error: 'this file is damaged should be moved to trash' (or something similar), do the following:
         * Open System Preferences
         * Open Security & Privacy

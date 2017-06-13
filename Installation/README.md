@@ -15,22 +15,22 @@ OpenRefine is built in Java. You will need [Java JRE installed](https://www.java
 
 1. Go to the [OpenRefine 2.7 beta Download Page](https://github.com/OpenRefine/OpenRefine/releases). Find OpenRefine v2.7 Release Candidate 2 (this should be at the top of the page).
 2. Download the OpenRefine file for your operating system and follow the instructions:
-  2. For Windows:
-    3. Download `openrefine-win-2.7-rc.2.zip`, unzip, and double-click on `openrefine.exe`.
-    4. If you’re having issues, try double-clicking on `refine.bat` (in the downloaded and unzipped openrefine folder on your computer) instead.
-  3. For Mac:
-    4. Download `openrefine-mac-2.7-rc.2.dmg`, open, drag icon into the `Applications` folder and double click on it.
-    5. If you get the error: 'this file is damaged should be moved to trash' (or something similar), do the following:
-      4. Open System Preferences
-      5. Open Security & Privacy
-      6. Go to the General Tab
-      7. Change the "Allow applications downloaded from:" setting to "Anywhere"
-      8. You should be able to able to open OpenRefine now.
-  3. For Linux:
-    4. Download `openrefine-linux-2.7-rc.2.tar.gz` and unzip the file.
-    5. Then type `./refine` to start. For Linux only, type `cntl+C` to stop OpenRefine.
-4. Once you've tried starting OpenRefine, go to http://127.0.0.1:3333/ and make sure you see the OpenRefine start screen.
-5. To quit OpenRefine, close the window that appeared when clicking the starter icon.
+  a. For Windows:
+    * Download `openrefine-win-2.7-rc.2.zip`, unzip, and double-click on `openrefine.exe`.
+    * If you’re having issues, try double-clicking on `refine.bat` (in the downloaded and unzipped openrefine folder on your computer) instead.
+  b. For Mac:
+    * Download `openrefine-mac-2.7-rc.2.dmg`, open, drag icon into the `Applications` folder and double click on it.
+    * If you get the error: 'this file is damaged should be moved to trash' (or something similar), do the following:
+      * Open System Preferences
+      * Open Security & Privacy
+      * Go to the General Tab
+      * Change the "Allow applications downloaded from:" setting to "Anywhere"
+      * You should be able to able to open OpenRefine now.
+  c. For Linux:
+    * Download `openrefine-linux-2.7-rc.2.tar.gz` and unzip the file.
+    * Then type `./refine` to start. For Linux only, type `cntl+C` to stop OpenRefine.
+3. Once you've tried starting OpenRefine, go to http://127.0.0.1:3333/ and make sure you see the OpenRefine start screen.
+4. To quit OpenRefine, close the window that appeared when clicking the starter icon.
 
 ### Back-ups OpenRefine Installation Options
 
@@ -54,16 +54,16 @@ If you want to try a cloud-based version or if you cannot get the instructions a
 Alternatively, you can run OpenRefine by downloading or git cloning the source code.
 
 1. Clone or download OpenRefine:
-  2. To download the source code for 2.7rc2, find the downloads here: https://github.com/OpenRefine/OpenRefine/releases
-  3. To clone this from GitHub, clone the master branch of this repository: https://github.com/OpenRefine/OpenRefine
-3. Move OpenRefine to wherever on your computer you'd like to run it from.
-4. Change into that OpenRefine directory in some kind of command line interface or shell (e.g. Terminal on Mac, Command Prompt in Windows,...).
-5. In your CLI or shell, first build OpenRefine (you only need to do this once per download):
-  6. on Windows, type: ```$ refine build```
-  7. on MacOSX or Unix, type: ```$ ./refine build```
-6. Run OpenRefine:
-  6. On Mac/Linux: ``` $ ./refine ```
-    7. On Windows: ``` $ refine ```
+  a. To download the source code for 2.7rc2, find the downloads here: https://github.com/OpenRefine/OpenRefine/releases
+  b. To clone this from GitHub, clone the master branch of this repository: https://github.com/OpenRefine/OpenRefine
+2. Move OpenRefine to wherever on your computer you'd like to run it from.
+3. Change into that OpenRefine directory in some kind of command line interface or shell (e.g. Terminal on Mac, Command Prompt in Windows,...).
+4. In your CLI or shell, first build OpenRefine (you only need to do this once per download):
+  a. on Windows, type: ```$ refine build```
+  b. on MacOSX or Unix, type: ```$ ./refine build```
+5. Run OpenRefine:
+  a. On Mac/Linux: ``` $ ./refine ```
+    b. On Windows: ``` $ refine ```
 6. Leave the Command Line Interface running while working with LODRefine. Go to your preferred web browser (**not Internet Explorer**), and navigate to http://127.0.0.1:3333/.
 7. When you're done, go back to the Command Line Interface client where LODRefine is running, and type `cntl+C`. This will stop OpenRefine.
 

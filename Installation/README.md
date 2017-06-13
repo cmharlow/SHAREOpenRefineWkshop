@@ -15,20 +15,20 @@ OpenRefine is built in Java. You will need [Java JRE installed](https://www.java
 
 1. Go to the [OpenRefine 2.7 beta Download Page](https://github.com/OpenRefine/OpenRefine/releases). Find OpenRefine v2.7 Release Candidate 2 (this should be at the top of the page).
 2. Download the OpenRefine file for your operating system and follow the instructions:
-  a. For Windows:
-    * Download `openrefine-win-2.7-rc.2.zip`, unzip, and double-click on `openrefine.exe`.
-    * If you’re having issues, try double-clicking on `refine.bat` (in the downloaded and unzipped openrefine folder on your computer) instead.
-  b. For Mac:
-    * Download `openrefine-mac-2.7-rc.2.dmg`, open, drag icon into the `Applications` folder and double click on it.
-    * If you get the error: 'this file is damaged should be moved to trash' (or something similar), do the following:
-      * Open System Preferences
-      * Open Security & Privacy
-      * Go to the General Tab
-      * Change the "Allow applications downloaded from:" setting to "Anywhere"
-      * You should be able to able to open OpenRefine now.
-  c. For Linux:
-    * Download `openrefine-linux-2.7-rc.2.tar.gz` and unzip the file.
-    * Then type `./refine` to start. For Linux only, type `cntl+C` to stop OpenRefine.
+    * For Windows:
+      * Download `openrefine-win-2.7-rc.2.zip`, unzip, and double-click on `openrefine.exe`.
+      * If you’re having issues, try double-clicking on `refine.bat` (in the downloaded and unzipped openrefine folder on your computer) instead.
+    * For Mac:
+      * Download `openrefine-mac-2.7-rc.2.dmg`, open, drag icon into the `Applications` folder and double click on it.
+      * If you get the error: 'this file is damaged should be moved to trash' (or something similar), do the following:
+        * Open System Preferences
+        * Open Security & Privacy
+        * Go to the General Tab
+        * Change the "Allow applications downloaded from:" setting to "Anywhere"
+        * You should be able to able to open OpenRefine now.
+    * For Linux:
+      * Download `openrefine-linux-2.7-rc.2.tar.gz` and unzip the file.
+      * Then type `./refine` to start. For Linux only, type `cntl+C` to stop OpenRefine.
 3. Once you've tried starting OpenRefine, go to http://127.0.0.1:3333/ and make sure you see the OpenRefine start screen.
 4. To quit OpenRefine, close the window that appeared when clicking the starter icon.
 

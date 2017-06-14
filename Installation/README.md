@@ -6,7 +6,23 @@ This workshop will primarily work with the latest release candidate (2.7rc2) of 
 
 ### OpenRefine Installation
 
-If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you.
+If you run into any issues with installation, please get in touch with [me](mailto:cmharlow@stanford.edu) as soon as you are able, and I'll work through these issues with you. I will be available the 2 hours before the workshop to help with installation issues or questions. The zoom information is below:
+
+```
+Topic: OpenRefine Installation Help
+Time: Jun 15, 2017 10:00 AM - Noon Pacific Time (US and Canada)
+
+Join from PC, Mac, Linux, iOS or Android: https://stanford.zoom.us/j/866812859
+
+Or iPhone one-tap (US Toll):  +16465588656,866812859# or +14086380968,866812859#
+
+Or Telephone:
+    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
+    +886 277 417 473 (Taiwan Toll)
+    +1 855 703 8985 (Canada Toll Free)
+    Meeting ID: 866 812 859
+    International numbers available: https://stanford.zoom.us/zoomconference?m=zaVwHcZY9refmRy-7rp74gGCBHWoLDlh
+```
 
 #### Java Requirements
 OpenRefine is built in Java. You will need [Java JRE installed](https://www.java.com/en/download/help/download_options.xml).

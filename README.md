@@ -10,6 +10,7 @@
     - Extensions
     - GLAM Metadata & LOD in OpenRefine
     - Resources
+    - Set up & Installation (Quick Overview)
 2. Import Data
     - CSV, Google Sheets
     - JSON, XML
